@@ -1,6 +1,249 @@
-.App {
+body{
+  background-color: #61dafb;
+}
+.main-container{
+ 
+  background-color: #edf2f4;
+}
+.btn-input-search{
+  background-color: orange;
+}
+.top-bar{
+ background-color: #432818;
+ color: white;
+ padding: 5px 0px ;
+ padding-left: 20px;
+ font-weight: bold;
+
+}
+.nav-bar{
+  background-color: 
+  white;
   text-align: center;
 }
+.select{margin-left: 10px;
+  margin-top: 5px;
+  width: 150px;
+  height: 20px;
+}
+img{border-radius: 10px;}
+.card-slider1{
+   margin: 15px 5px;
+   height: 160px;
+   text-align: center;
+}
+.card-slider3{
+  margin: 15px 5px;
+  height: 160px;
+  font-size: 8px;
+  text-align: left;
+ font-weight: bold;
+ padding-bottom: 50px;
+}
+.New-arrivals{
+  height: 250;
+  width: 300;
+  background-color: white;
+}
+.heading-slider1{
+
+  color: #f48c06;
+}
+.heading-slider2{
+color : white;
+
+}
+.heading-slider3{
+ 
+ color: black;
+ font-weight: bold;
+}
+.btn-slider1{
+  width: 200px;
+  padding:5px 0px ;
+  border-radius: 20px;
+  background-color:#f2cc8f;
+  font-weight: bold;
+  margin: 0px auto;
+  border: none;
+}
+
+button{
+  background-color: transparent;
+  border: none;
+}
+
+.card-slider2{
+  font-size: 15px;
+  margin: 15px 5px;
+  height: 160px;
+  font-weight: bold;
+  color: white;
+  }
+.slider-btn2{
+    background-color: white;
+  color: orangered;
+  font-weight: bolder;
+  width: 100px;
+  border-radius: 20px;
+  }
+  
+.slider-btn3{
+  background-color: orangered;
+color: white;
+font-weight: bolder;
+width: 200px;
+height: 40px;
+border-radius: 20px;
+}
+  .div-card1{
+    margin: 5px;
+  }
+  .div-card2{
+    padding: 5px;
+    width: 48%;
+    margin: 5px auto;
+  }
+  .div-row{
+    padding: 10px;
+    margin: 5px;
+  }
+  .div-card3{
+    background-color: #edf2f4;
+    border-radius: 20px;
+    padding: 15px 5px;
+  }
+  h2{
+    text-decoration-line: underline;
+    
+    
+  }
+  .just-for-you{
+    padding: 10px;
+    margin: 5px auto;
+  }
+  .inner-div-pic{
+    margin: 5px;
+  }
+  .card-justforyou{
+    margin: 5px 12px;
+  }
+  .inner-card {
+    margin: 5px 10px;
+    padding: 5px 10px;
+    text-align: center;
+  }
+  .background-img-div{
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+  }
+  .background-img{
+    background-image: url("https://www.grathoconsulting.com/static/images/csit.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 300px;
+    margin: 15px;
+    cursor: pointer;
+
+
+  }
+  .background-heading{
+    word-spacing: 3px;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 40px;
+    padding: 10px;
+  }
+  .background-beside{
+    padding: 10px;
+    background-color: white;
+    width: 680px;
+    border: 5px solid rgb(175, 172, 172);
+    height: 300px;
+    margin: 15px;
+  }
+.card-align{
+  text-align: center;
+  margin: 0px auto;
+  cursor: pointer;
+}
+.card-image:hover{
+   background-color: turquoise;
+   border-radius: 15px;
+   box-shadow: 2px 2px 10px 2px black;
+}
+.New-arrivals{
+  margin: 10px;
+}
+.main-footer{
+  width: 100vw;
+  height: 500px;
+  background-color: #264653;
+}
+.footer-input{
+  color: white;
+  text-align: center;
+  padding: 50px;
+}
+.btn-footer{
+  width: 200px;
+  height: 60px;  
+}
+.footer-list{
+  margin: 5px;
+}
+.row-columns{
+  padding: 5px;
+  display: flex;
+  justify-content: space-evenly; 
+}
+::-webkit-TextField-placeholder{
+  color: white;
+}
+h6{
+  color:white
+}
+li{
+  color: white;
+  list-style-type: none;
+  padding: 5px 0px;
+}
+
+li:hover{
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .App-logo {
   height: 40vmin;
